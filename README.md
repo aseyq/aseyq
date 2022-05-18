@@ -25,7 +25,7 @@ Some of my repos are on my previous account: [@seyhunsaral](https://www.github.c
 
 
 
-Here are some tools that I use (or enjoyed to use in the past):
+Here are some tools that I use (or enjoyed using in the past):
 
 
 ## Languages
