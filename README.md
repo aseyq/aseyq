@@ -18,11 +18,11 @@ I am also interested in software development related to experimental social scie
 
 
 ## Some tools that I made or contributed
-- **[zBrac](https://github.com/seyhunsaral/zbrac/)**: This is a tool for multilanguage experiments using the well-known behavioral experiment software [z-Tree](https://www.ztree.uzh.ch/en.html). We built it in with Python and Qt5, **together with Anna Schroeter**.
-- **[choicepy](https://github.com/aseyq/choicepy)**: This is a social choce simulation (in an arrowian framework) tool for Python. It has very little features yet. We wanted to have a visually helpful tool that allows its users to investigate preference profiles as well. Made together with **Annika Hennes**. We also used it for our research paper "_Wisdom of crowds and voting_". 
+- **[zBrac](https://github.com/seyhunsaral/zbrac/)**: an tool for the well-known behavioral experiment software [z-Tree](https://www.ztree.uzh.ch/en.html) which helps you conduct multilanguage experiments. We built it in with Python and Qt5, **together with Anna Schroeter**.
+- **[choicepy](https://github.com/aseyq/choicepy)**: A python package for a social choce theory simulations (in an arrowian framework) tool for Python. It has very few features yet. Made together with **Annika Hennes**. We also used it for our research paper "_Wisdom of crowds and voting_". 
 - **[matchgreek](https://github.com/seyhunsaral/matchgreek/)**: A tool for LaTeX, that tells you which greek symbols you already used, and which are still available.
 - **[flyCSV](https://github.com/aseyq/flyCSV)**: This is an R package (basially a wrapper) which allows you to take a look at your data frames as CSV files on the fly. 
-- **[Qualtrics IBAN Checker](https://github.com/seyhunsaral/qualtrics-iban-check):** Qualtrics adaptation of a simple JavaScript checker.
+- **[Qualtrics IBAN Checker](https://github.com/seyhunsaral/qualtrics-iban-check):** Qualtrics adaptation of a simple JavaScript IBAN validator.
 
 ## Some courses/documentations with public repositories
 - **[oTree Community Book](https://github.com/seyhunsaral/otree-course)**: This is an open-documentation project that I am planning for the fantastic behavioral experiment software [oTree](https://github.com/oTree-org/oTree). At the moment repository contains my notes of the oTree course that I have given at the Max Planck Institute.
@@ -31,10 +31,7 @@ I am also interested in software development related to experimental social scie
 
 Some of my repos are on my previous account: [@seyhunsaral](https://www.github.com/seyhunsaral)
 
-
-
 Here are some tools that I use (or enjoyed using in the past):
-
 
 ## Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
