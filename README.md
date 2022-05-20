@@ -21,6 +21,18 @@ I am also interested in software development related to experimental social scie
 <a href="https://linkedin.com/in/aseyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aseyq" height="30" width="40" /></a>
 </p>
 
+
+## Some tools that I made or contributed
+- **[zBrac](https://github.com/seyhunsaral/zbrac/)**: This is a tool for multilanguage experiments using the well-known behavioral experiment software [z-Tree](https://www.ztree.uzh.ch/en.html). We built it in with Python and Qt5, **together with Anna Schroeter**.
+- **[choicepy](https://github.com/aseyq/choicepy)**: This is a social choce simulation (in an arrowian framework) tool for Python. It has very little features yet. We wanted to have a visually helpful tool that allows its users to investigate preference profiles as well. Made together with **Annika Hennes**. We also used it for our research paper "_Wisdom of crowds and voting_". 
+- **[matchgreek](https://github.com/seyhunsaral/matchgreek/)**: A tool for LaTeX, that tells you which greek symbols you already used, and which are still available.
+- **[flyCSV](https://github.com/aseyq/flyCSV)**: This is an R package (basially a wrapper) which allows you to take a look at your data frames as CSV files on the fly. 
+
+## Some courses/documentations with public repositories
+- **[oTree Community Book](https://github.com/seyhunsaral/otree-course)**: This is an open-documentation project that I am planning for the fantastic behavioral experiment software [oTree](https://github.com/oTree-org/oTree). At the moment repository contains my notes of the oTree course that I have given at the Max Planck Institute.
+- **[Introduction to R for Mathematics](https://github.com/aseyq/trentomathr)**: This is the repository of the crash course I gave on R as a part of the mathematics course at the University of Trento. 
+- **[Introduction to ggplot2](https://github.com/seyhunsaral/jdmx-ggplot2)**: This is the repository for 3 hours workshop on ggplot that I gave at the Judgment and Decision Making (JDMx) Workshop in 2019.
+
 Some of my repos are on my previous account: [@seyhunsaral](https://www.github.com/seyhunsaral)
 
 
