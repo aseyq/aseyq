@@ -13,7 +13,7 @@ I am also interested in software development related to experimental social scie
 
 - 💬 Ask me about **behavioral experiments.**
 
-- 📄 For more information about my research, [visit my website](https://www.saral.it/)
+- 📄 For more information about my research, you can [visit my website](https://www.saral.it/)
 
 
 
