@@ -21,7 +21,7 @@ I am also interested in software development related to experimental social scie
 - **[zBrac](https://github.com/seyhunsaral/zbrac/)**: an tool for the well-known behavioral experiment software [z-Tree](https://www.ztree.uzh.ch/en.html) which helps you conduct multilanguage experiments. We built it in with Python and Qt5, **together with Anna Schroeter**.
 - **[choicepy](https://github.com/aseyq/choicepy)**: A python package for a social choce theory simulations (in an arrowian framework) tool for Python. It has very few features yet. Made together with **Annika Hennes**. We also used it for our research paper "_Wisdom of crowds and voting_". 
 - **[matchgreek](https://github.com/seyhunsaral/matchgreek/)**: A tool for LaTeX, that tells you which greek symbols you already used, and which are still available.
-- **[flyCSV](https://github.com/aseyq/flyCSV)**: This is an R package (basially a wrapper) which allows you to take a look at your data frames as CSV files on the fly. 
+- **[flyCSV](https://github.com/aseyq/flyCSV)**: This is an R package (basially a wrapper) that allows you to take a look at your data frames as CSV files on the fly. 
 - **[Qualtrics IBAN Checker](https://github.com/seyhunsaral/qualtrics-iban-check):** Qualtrics adaptation of a simple JavaScript IBAN validator.
 
 ## Some courses/documentations with public repositories
