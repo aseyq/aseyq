@@ -26,7 +26,7 @@ social sciences and data analysis.
 Some tools that I made or contributed to
 ----------------------------------------
 
--   **[zBrac](https://github.com/seyhunsaral/zbrac/)**: a tool for the well-known behavioral experiment software [[z-Tree]{.underline}](https://www.ztree.uzh.ch/en.html), which helps you conduct multilanguage experiments. We built it with Python and Qt5, **together with Anna Schroeter**.
+-   **[zBrac](https://github.com/seyhunsaral/zbrac/)**: a tool for the well-known behavioral experiment software [z-Tree](https://www.ztree.uzh.ch/en.html), which helps you conduct multilanguage experiments. We built it with Python and Qt5, **together with Anna Schroeter**.
 
 -  **[choicepy](https://github.com/aseyq/choicepy)**: A python package for a social choice theory simulations tool for Python. It has very few features yet. Made together with **Annika Hennes**. We also used it for our research paper \"*Wisdom of crowds and voting*.\"
 
@@ -39,7 +39,7 @@ Some tools that I made or contributed to
 Some courses/documentations with public repositories
 ----------------------------------------------------
 
--   **[oTree Community Book (currently oTre version 3)](https://github.com/seyhunsaral/otree-course)**: This is an open-documentation project I am planning for the behavioral experiment software [[oTree]{.underline}](https://github.com/oTree-org/oTree). At the moment repository contains my notes of the oTree course that I have given at the Max Planck Institute.
+-   **[oTree Community Book (currently oTre version 3)](https://github.com/seyhunsaral/otree-course)**: This is an open-documentation project I am planning for the behavioral experiment software [oTree](https://github.com/oTree-org/oTree). At the moment repository contains my notes of the oTree course that I have given at the Max Planck Institute.
 
 -   **[oTree Crash Course](https://github.com/aseyq/cereb-otree)**: Materials from the workshop I gave at CEREB, Erfurt. oTree versions 5+
 
@@ -50,7 +50,7 @@ Some courses/documentations with public repositories
 -   **[Introduction to ggplot2](https://github.com/seyhunsaral/jdmx-ggplot2)**: This is the repository for 3 hours workshop on ggplot that I gave at the Judgment and Decision Making (JDMx) Workshop in 2019.
 
 Some of my repositories are on my previous account:
-[[\@seyhunsaral]{.underline}](https://www.github.com/seyhunsaral)
+[\@seyhunsaral](https://www.github.com/seyhunsaral)
 
 Here are some tools that I use (or enjoyed using in the past):
 
