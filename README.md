@@ -26,7 +26,7 @@ I am also interested in software development related to experimental social scie
 
 ## Some courses/documentations with public repositories
 - **[oTree Community Book (currently oTree version 3)](https://github.com/seyhunsaral/otree-course)**: This is an open-documentation project that I am planning for the fantastic behavioral experiment software [oTree](https://github.com/oTree-org/oTree). At the moment repository contains my notes of the oTree course that I have given at the Max Planck Institute.
-- **[oTree Crash Course](https://github.com/aseyq/cereb-otree)**: Materials from the workshop I gave at CEREB, Erfurt.
+- **[oTree Crash Course](https://github.com/aseyq/cereb-otree)**: Materials from the workshop I gave at CEREB, Erfurt. oTree version 5+
 - **[Games and Agents - An introduction to ABM using Python](https://github.com/aseyq/leidensim)**: Materials from the workshop I have in Leiden University.
 - **[Introduction to R for Mathematics](https://github.com/aseyq/trentomathr)**: This is the repository of the crash course I gave on R as a part of the mathematics course at the University of Trento. 
 - **[Introduction to ggplot2](https://github.com/seyhunsaral/jdmx-ggplot2)**: This is the repository for 3 hours workshop on ggplot that I gave at the Judgment and Decision Making (JDMx) Workshop in 2019.
