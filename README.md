@@ -1,37 +1,56 @@
 ### Hi, this is Ali 👋
- I am an experimental economics, working as a postdoctoral researcher at the [Institute for Advanced Study in Toulouse](www.iast.fr).
+I am an experimental economist working as a postdoctoral researcher at
+the [Institute for Advanced Study in
+Toulouse](https://www.iast.fr).
 
-My research is focused on the topic of cooperation, specifically on reciprocity and conditional cooperation. A particular application of this literature that I am interested in is social production goods such as open-source software, wikis, public guides and so on.
+My research is focused on cooperation, specifically on reciprocity and
+conditional cooperation. A particular application of this literature
+that I am interested in is social production goods such as open-source
+software, wikis, public guides, and so on.
 
-For my research, I use methods from microeconomics, game theory, behavioral and experimental economics, agent-based modelling and social choice theory.
+For my research, I use methods from microeconomics, game theory,
+behavioral and experimental economics, agent-based modeling, and social
+choice theory.
 
-I am also interested in software development related to experimental social sciences and data analysis. 
+I am also interested in software development related to experimental
+social sciences and data analysis.
 
-- 🔭 I’m currently working [on several research projects](https://www.saral.it/#research)
+-   I\'m currently working [on several research projects](https://www.saral.it/#research).
 
-- 🌱 I’m currently learning **Matter.js**
+-   I\'m currently learning **Matter.js**
 
-- 💬 Ask me about **behavioral experiments.**
+-   Ask me about **behavioral experiments.**
 
-- 📄 For more information about my research, you can [visit my website](https://www.saral.it/)
+-   For more information about my research, you can [visit my website](https://www.saral.it/).
 
+Some tools that I made or contributed to
+----------------------------------------
 
+-   **[zBrac](https://github.com/seyhunsaral/zbrac/)**: a tool for the well-known behavioral experiment software [[z-Tree]{.underline}](https://www.ztree.uzh.ch/en.html), which helps you conduct multilanguage experiments. We built it with Python and Qt5, **together with Anna Schroeter**.
 
-## Some tools that I made or contributed to
-- **[zBrac](https://github.com/seyhunsaral/zbrac/)**: an tool for the well-known behavioral experiment software [z-Tree](https://www.ztree.uzh.ch/en.html) which helps you conduct multilanguage experiments. We built it in with Python and Qt5, **together with Anna Schroeter**.
-- **[choicepy](https://github.com/aseyq/choicepy)**: A python package for a social choce theory simulations (in an arrowian framework) tool for Python. It has very few features yet. Made together with **Annika Hennes**. We also used it for our research paper "_Wisdom of crowds and voting_". 
-- **[matchgreek](https://github.com/seyhunsaral/matchgreek/)**: A tool for LaTeX, that tells you which greek symbols you already used, and which are still available.
-- **[flyCSV](https://github.com/aseyq/flyCSV)**: This is an R package (basially a wrapper) that allows you to take a look at your data frames as CSV files on the fly. 
-- **[Qualtrics IBAN Checker](https://github.com/seyhunsaral/qualtrics-iban-check):** Qualtrics adaptation of a simple JavaScript IBAN validator.
+-  **[choicepy](https://github.com/aseyq/choicepy)**: A python package for a social choice theory simulations tool for Python. It has very few features yet. Made together with **Annika Hennes**. We also used it for our research paper \"*Wisdom of crowds and voting*.\"
 
-## Some courses/documentations with public repositories
-- **[oTree Community Book (currently oTree version 3)](https://github.com/seyhunsaral/otree-course)**: This is an open-documentation project that I am planning for the fantastic behavioral experiment software [oTree](https://github.com/oTree-org/oTree). At the moment repository contains my notes of the oTree course that I have given at the Max Planck Institute.
-- **[oTree Crash Course](https://github.com/aseyq/cereb-otree)**: Materials from the workshop I gave at CEREB, Erfurt. oTree version 5+
-- **[Games and Agents - An introduction to ABM using Python](https://github.com/aseyq/leidensim)**: Materials from the workshop I gave in Leiden University.
-- **[Introduction to R for Mathematics](https://github.com/aseyq/trentomathr)**: This is the repository of the crash course I gave on R as a part of the mathematics course at the University of Trento. 
-- **[Introduction to ggplot2](https://github.com/seyhunsaral/jdmx-ggplot2)**: This is the repository for 3 hours workshop on ggplot that I gave at the Judgment and Decision Making (JDMx) Workshop in 2019.
+-   **[matchgreek](https://github.com/seyhunsaral/matchgreek/)**: A tool for LaTeX that tells you which greek symbols you already used and which are still available.
 
-Some of my repos are on my previous account: [@seyhunsaral](https://www.github.com/seyhunsaral)
+-   **[flyCSV](https://github.com/aseyq/flyCSV)**: This tiny R package allows you to look at your data frames as CSV files on the fly.
+
+-   **[Qualtrics IBAN Checker](https://github.com/seyhunsaral/qualtrics-iban-check):** Qualtrics adaptation of a simple JavaScript IBAN validator.
+
+Some courses/documentations with public repositories
+----------------------------------------------------
+
+-   **[oTree Community Book (currently oTre version 3)](https://github.com/seyhunsaral/otree-course)**: This is an open-documentation project I am planning for the behavioral experiment software [[oTree]{.underline}](https://github.com/oTree-org/oTree). At the moment repository contains my notes of the oTree course that I have given at the Max Planck Institute.
+
+-   **[oTree Crash Course](https://github.com/aseyq/cereb-otree)**: Materials from the workshop I gave at CEREB, Erfurt. oTree versions 5+
+
+-   **[Games and Agents - An introduction to ABM using Python](https://github.com/aseyq/leidensim)**: Materials from the workshop I gave at Leiden University.
+
+-   **[Introduction to R for Mathematics](https://github.com/aseyq/trentomathr)**: This is the repository of the crash course I gave on R as a part of the mathematics course at the University of Trento.
+
+-   **[Introduction to ggplot2](https://github.com/seyhunsaral/jdmx-ggplot2)**: This is the repository for 3 hours workshop on ggplot that I gave at the Judgment and Decision Making (JDMx) Workshop in 2019.
+
+Some of my repositories are on my previous account:
+[[\@seyhunsaral]{.underline}](https://www.github.com/seyhunsaral)
 
 Here are some tools that I use (or enjoyed using in the past):
 
