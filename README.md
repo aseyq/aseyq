@@ -17,7 +17,7 @@ social sciences and data analysis.
 
 -   I\'m currently working [on several research projects](https://www.saral.it/#research).
 
--   I\'m currently learning **Matter.js**
+-   I\'m currently learning **PixiJS**
 
 -   Ask me about **behavioral experiments.**
 
