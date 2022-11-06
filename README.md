@@ -83,5 +83,6 @@ Here are some tools that I use (or enjoyed using in the past):
 <p align="left">
 <a href="https://twitter.com/aseyq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aseyq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aseyq" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aseyq" height="30" width="40" /></a>
-  <a rel="me" href="https://fosstodon.org/@aseyq" target="_blank">Mastodon: @aseyq@fosstodon.org</a>
+  <a rel="me" href="https://fosstodon.org/@aseyq" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_(Simple).svg" alt="aseyq" height="30" width="40" /></a>
+  
 </p>
