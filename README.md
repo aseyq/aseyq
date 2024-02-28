@@ -15,14 +15,6 @@ choice theory.
 I am also interested in software development related to experimental
 social sciences and data analysis.
 
--   I\'m currently working [on several research projects](https://www.saral.it/#research).
-
--   I\'m currently learning **PixiJS**
-
--   Ask me about **behavioral experiments.**
-
--   For more information about my research, you can [visit my website](https://www.saral.it/).
-
 Some tools that I made or contributed to
 ----------------------------------------
 
