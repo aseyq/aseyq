@@ -1,16 +1,9 @@
 ### Hi, this is Ali 👋
-I am an experimental economist working as a postdoctoral researcher at
-the [Institute for Advanced Study in
-Toulouse](https://www.iast.fr).
+I am working as Data and Behavioral Scientist at CEB, United Nations. 
+I am a behavioral and experimental economist by training. 
 
-My research is focused on cooperation, specifically on reciprocity and
-conditional cooperation. A particular application of this literature
-that I am interested in is social production goods such as open-source
-software, wikis, public guides, and so on.
-
-For my research, I use methods from microeconomics, game theory,
-behavioral and experimental economics, agent-based modeling, and social
-choice theory.
+For my research, I use methods from data science, machine learning, microeconomics, game theory,
+behavioral and experimental economics, agent-based modeling.
 
 I am also interested in software development related to experimental
 social sciences and data analysis.
