@@ -13,10 +13,6 @@ Some tools that I made or contributed to
 
 -   **[zBrac](https://github.com/seyhunsaral/zbrac/)**: a tool for the well-known behavioral experiment software [z-Tree](https://www.ztree.uzh.ch/en.html), which helps you conduct multilanguage experiments. We built it with Python and Qt5, **together with Anna Schroeter**.
 
--  **[choicepy](https://github.com/aseyq/choicepy)**: A python package for a social choice theory simulations tool for Python. It has very few features yet. Made together with **Annika Hennes**. We also used it for our research paper \"*Wisdom of crowds and voting*.\"
-
--   **[matchgreek](https://github.com/seyhunsaral/matchgreek/)**: A tool for LaTeX that tells you which greek symbols you already used and which are still available.
-
 -   **[flyCSV](https://github.com/aseyq/flyCSV)**: This tiny R package allows you to look at your data frames as CSV files on the fly.
 
 -   **[Qualtrics IBAN Checker](https://github.com/seyhunsaral/qualtrics-iban-check):** Qualtrics adaptation of a simple JavaScript IBAN validator.
